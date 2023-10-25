@@ -1,7 +1,7 @@
 # External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 plugins:
- # - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate-v2
 
@@ -13,21 +13,13 @@ title: Personal webpage
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: david.llerena@univ-evry.fr
 name: David Llerena
-description: >
-   I am a PhD student at
-    the Laboratoire de Mathématiques et 
-    Modélisation d'Évry (LaMME), working under
-    the supervision of Diego Chamorro and Pierre-Gilles 
-    Lemarié-Rieusset. 
-   My research interests primarily involves 
-   the local regularity of solutions for models 
-   derived from fundamental principles in fluid 
-   mechanics, such as the Navier-Stokes equations,
-    MHD equations, and micropolar equations. 
+description: ""
+   
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-url: "henrydavidllerena.github.io/myblog/" # the subpath of your site, e.g. /blog/
+url: "" 
+#"https:henrydavidllerena.github.io/myblog/" # the subpath of your site, e.g. /blog/
 #url: "" # the base hostname & protocol for your site
 cover: "/assets/cotopaxi.jpg"
 logo: "/assets/math.png"
@@ -41,7 +33,7 @@ highlightjs_theme: "monokai-sublime"
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 pagination:
   enabled: true
-  per_page: je5
+  per_page: 5
   permalink: "/page/:num/"
   sort_reverse: true
 
