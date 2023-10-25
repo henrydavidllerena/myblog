@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/cotopaxi.jpg "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/david.gif "Profile Picture"){:.profile}
 
 I am a PhD student at the [Laboratoire de Mathématiques et Modélisation d'Évry]() (LaMME), working under the supervision of Diego Chamorro and Pierre-Gilles Lemarié-Rieusset. 
 
