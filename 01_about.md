@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About me
+permalink: /about me/
 main_nav: true
+page-number: 1
 ---
 
 ![alt text]({{ site.baseurl }}/assets/david.gif "Profile Picture"){:.profile}
