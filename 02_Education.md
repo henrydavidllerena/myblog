@@ -19,7 +19,7 @@ main_nav: true
   </li>
   <li> <dt>2013 - 2018 :</dt> BSc in Applied Mathematics,  Universidad Central del Ecuador
     <dd>
-      <a href="https://www.amarun.org/images/amarun/materiales/tesis-maestria/Llerena_2021.pdf" title="Thesis"> Thesis:</a>: Aproximate identities in the Schwarzs spaces (in spanish).
+      Thesis: Aproximate identities in the Schwarzs spaces (in spanish).
     </dd>
   </li>
 </ul>
