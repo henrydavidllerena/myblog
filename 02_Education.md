@@ -8,13 +8,13 @@ main_nav: true
 <h3 id="education">Education</h3>
 <ul>
   <li> <dt>October 2021-present :</dt>
-  <dd> Phd Student at Laboratoire de Mathématiques et Modélisation d'Évry.<br>
+  <dd> <b>Phd Student</b>, Laboratoire de Mathématiques et Modélisation d'Évry </b>.<br>
   <b>Thesis title:</b> Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations  <br>
   <b>Advisors:</b>  Diego Chamorro and Pierre-Gilles Lemarié-Rieusset
   </dd>
   </li>
-  <li> <dt>2019 - 2021 :</dt><dd> Master degree in Mathematics, M2 AAG, Université Paris Saclay site Orsay.<br>
-  <b>Master Thesis</b>: Étude de la régularité pour quelques équations de la mécanique des fluides.</dd>
+  <li> <dt>2019 - 2021 :</dt><dd> <b>Master degree in Mathematics</b>, M2 AAG, Université Paris Saclay site Orsay.<br>
+  <b><a href="https://www.amarun.org/images/amarun/materiales/tesis-maestria/Llerena_2021.pdf" title="masterThesis">Master thesis:</a></b>: Étude de la régularité pour quelques équations de la mécanique des fluides.</dd>
   </li>
   <li> <dt>2013 - 2018 :</dt><dd> Bachelor in Mathematics at the Central University of Ecuador<br>
   Final report: (in spanish).</dd>
@@ -69,4 +69,4 @@ main_nav: true
 
   </li>
 </ul>
-
+<h4>  <a href="https://www.amarun.org" title="FullCV">FULL CV</a>,</h4>
