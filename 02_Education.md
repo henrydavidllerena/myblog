@@ -9,17 +9,17 @@ main_nav: true
 <ul>
   <li> <dt>October 2021 - present :</dt>
   <b>Pursuing a PhD in Mathematics</b>, Université Paris-Saclay, Laboratoire de Mathématiques et Modélisation d'Évry.<br>
-   <dd><b>Thesis title:</b> Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations  <br>
-   <b>Advisors:</b>  Diego Chamorro and Pierre-Gilles Lemarié-Rieusset
+   <dd><i>Thesis title: Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations.</i> <br>
+   <i>Advisors: Diego Chamorro and Pierre-Gilles Lemarié-Rieusset. </i> 
    </dd>
   </li>
-  <li> <dt>2019 - 2021 :</dt> <b>Master degree in Mathematics</b>, M2 AAG, Université Paris Saclay site Orsay.<br>
-    <dd><a href="https://www.amarun.org/images/amarun/materiales/tesis-maestria/Llerena_2021.pdf" title="masterThesis">Master      thesis:</a> Étude de la régularité pour quelques équations de la mécanique des fluides.
+  <li> <dt>2019 - 2021 :</dt> <b>Master degree in Mathematics</b>, M2 AAG, Université Paris Saclay site Orsay.
+    <dd> <i><a href="https://www.amarun.org/images/amarun/materiales/tesis-maestria/Llerena_2021.pdf" title="masterThesis">Master      thesis:</a> Étude de la régularité pour quelques équations de la mécanique des fluides.</i>
     </dd>
   </li>
   <li> <dt>2013 - 2018 :</dt> BSc in Applied Mathematics,  Universidad Central del Ecuador
     <dd>
-      Thesis: Aproximate identities in the Schwarzs spaces (in spanish).
+      <i>Thesis: Aproximate identities in the Schwarzs spaces. </i>
     </dd>
   </li>
 </ul>
