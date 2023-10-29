@@ -69,4 +69,4 @@ main_nav: true
 
   </li>
 </ul>
-<h4>  <a href="https://www.amarun.org" title="FullCV">FULL CV</a>,</h4>
+<h4>  <a href="https://www.amarun.org" title="FullCV">FULL CV.</a></h4>
