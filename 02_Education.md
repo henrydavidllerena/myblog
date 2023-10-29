@@ -3,43 +3,35 @@ layout: page
 title: CV
 permalink: /CV/
 main_nav: true
-page-number: 5
 ---
 <hr>
 <h3 id="education">Education</h3>
 <ul>
-  <li> <dt>October 2021-present :</dt><dd> Phd Student at Laboratoire de Mathématiques et Modélisation d'Évry.</dd>
+  <li> <dt>October 2021-present :</dt>
+  <dd> Phd Student at Laboratoire de Mathématiques et Modélisation d'Évry.<br>
+  Thesis title: Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations  <br>
+  Advisors:  Diego Chamorro and Pierre-Gilles Lemarié-Rieusset
+  </dd>
   </li>
-  <li> <dt>2019 - 2021 :</dt><dd> Master degree in Mathematics, M2 AAG, Université Paris Saclay site Orsay.</dd>
+  <li> <dt>2019 - 2021 :</dt><dd> Master degree in Mathematics, M2 AAG, Université Paris Saclay site Orsay.<br>
+  Master Thesis: Étude de la régularité pour quelques équations de la mécanique des fluides.</dd>
   </li>
-  <li> <dt>2013 - 2018 :</dt><dd> Bachelor in Mathematics at the Central University of Ecuador.</dd>
+  <li> <dt>2013 - 2018 :</dt><dd> Bachelor in Mathematics at the Central University of Ecuador<br>
+  Final report: (in spanish).</dd>
   </li>
 </ul>
 
 <hr>
-<h3 id="teaching">Teaching Experience</h3>
-<ul>
- <li><dt>Sept 2022 - April 2021 (54h): </dt> <dd> 
- TD in "Langage Mathématique" for 1st year undergraduates in mathematics, Université d'Evry. 
- TD in mathematical techniques for 2nd year undergraduates in chemistry , Université d'Evry.  (Linear algebra and multivariable calculus)</dd></li>
-
- <li><dt>Oct 2021 - April 2022 (55h): </dt> 
- <dd>TD in mathematical techniques for 2nd year undergraduates in economie, Université d'Evry. 
- TD in "Langage Mathématique" for 1st year undergraduates in mathematics, Université d'Evry. 
- TD in mathematical techniques for 2nd year undergraduates in chemistry , Université d'Evry. (Linear algebra and multivariable calculus)
- TD in mathematical techniques for 2nd year undergraduates in physics, Université d'Evry. (Convergence of sequences and series) </dd>
- </li>
-</ul>
-
-<hr>
-<h3 id="GivenSeminars">Given talks and seminars</h3>
+<h3 id="GivenSeminars">Given talks, posters and seminars</h3>
 <dl>
  <dt>2023:</dt>
   <ul>
-  <li>Poster session </li>
-  <li>Poster session </li>
+  <li></li>
+  <li>Poster session at  "New trends in mathematical fluids dynamics", June, Grenoble 2023</li>
   <li>Séminaire des doctorants en EDP, LMO, Orsay, France </li>
   <li>Séminaire des doctorants, LaMME, Evry, France </li>
+  <li>Poster session at "Journées de jeunes EDPistes", Tours, France: </li>
+
   </ul>
   <dt>2022:</dt>
   <ul>
@@ -50,7 +42,7 @@ page-number: 5
 <dl>
   <dt>2023:</dt>
   <ul>
-  <li>New trends in mathematical fluids dynamics, June, Grenoble 2022</li>
+  <li>New trends in mathematical fluids dynamics, June, Grenoble.</li>
   </ul>
   <dt>2022:</dt>
   <ul>
