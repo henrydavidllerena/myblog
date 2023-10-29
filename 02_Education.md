@@ -8,7 +8,7 @@ main_nav: true
 <h3 id="education">Education</h3>
 <ul>
   <li> <dt>October 2021-present :</dt>
-  <dd> <b>Phd Student</b>, Laboratoire de Mathématiques et Modélisation d'Évry </b>.<br>
+  <dd> <b>Pursuing a PhD in Mathematics</b>, Université Paris-Saclay, Laboratoire de Mathématiques et Modélisation d'Évry.<br>
   <b>Thesis title:</b> Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations  <br>
   <b>Advisors:</b>  Diego Chamorro and Pierre-Gilles Lemarié-Rieusset
   </dd>
