@@ -2,7 +2,7 @@
 layout: page
 title: Typography
 permalink: /typography/
-main_nav: true
+main_nav: false
 header_pages: 4
 ---
 

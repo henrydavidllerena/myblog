@@ -13,7 +13,7 @@ title: David Llerena
 subtitle: "PhD student"
 email: david.llerena@univ-evry.fr
 name: David Llerena
-description: ""
+description: "Personal web page"
    
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
@@ -102,5 +102,5 @@ social:
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
-protocols:
-    ResearchGate_image: "/assets/math.png"
+#protocols:
+#    ResearchGate_image: "/assets/math.png"
