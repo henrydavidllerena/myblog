@@ -14,8 +14,8 @@ main_nav: true
   </ol>
 </dt>
 <hr>
-<h3 id="TD">TD</h3> 
-During the following year I gave the following TD
+<h3 id="TD">Teaching experience</h3> 
+ I was in charge of the following courses for the exercices lesson, (TD's)
 <ul>
  <li> <dt>Sept 2022 - April 2023 (54h): </dt> 
       <ol>
