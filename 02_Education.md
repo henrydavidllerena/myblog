@@ -7,17 +7,20 @@ main_nav: true
 <hr>
 <h3 id="education">Education</h3>
 <ul>
-  <li> <dt>October 2021-present :</dt>
-  <dd> <b>Pursuing a PhD in Mathematics</b>, Université Paris-Saclay, Laboratoire de Mathématiques et Modélisation d'Évry.<br>
-  <b>Thesis title:</b> Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations  <br>
-  <b>Advisors:</b>  Diego Chamorro and Pierre-Gilles Lemarié-Rieusset
-  </dd>
+  <li> <dt>October 2021 - present :</dt>
+  <b>Pursuing a PhD in Mathematics</b>, Université Paris-Saclay, Laboratoire de Mathématiques et Modélisation d'Évry.<br>
+   <dd><b>Thesis title:</b> Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations  <br>
+   <b>Advisors:</b>  Diego Chamorro and Pierre-Gilles Lemarié-Rieusset
+   </dd>
   </li>
-  <li> <dt>2019 - 2021 :</dt><dd> <b>Master degree in Mathematics</b>, M2 AAG, Université Paris Saclay site Orsay.<br>
-  <b><a href="https://www.amarun.org/images/amarun/materiales/tesis-maestria/Llerena_2021.pdf" title="masterThesis">Master thesis:</a></b>: Étude de la régularité pour quelques équations de la mécanique des fluides.</dd>
+  <li> <dt>2019 - 2021 :</dt> <b>Master degree in Mathematics</b>, M2 AAG, Université Paris Saclay site Orsay.<br>
+    <dd><a href="https://www.amarun.org/images/amarun/materiales/tesis-maestria/Llerena_2021.pdf" title="masterThesis">Master      thesis:</a> Étude de la régularité pour quelques équations de la mécanique des fluides.
+    </dd>
   </li>
-  <li> <dt>2013 - 2018 :</dt><dd> Bachelor in Mathematics at the Central University of Ecuador<br>
-  Final report: (in spanish).</dd>
+  <li> <dt>2013 - 2018 :</dt> BSc in Applied Mathematics,  Universidad Central del Ecuador
+    <dd>
+      <a href="https://www.amarun.org/images/amarun/materiales/tesis-maestria/Llerena_2021.pdf" title="Thesis"> Thesis:</a>: Aproximate identities in the Schwarzs spaces (in spanish).
+    </dd>
   </li>
 </ul>
 
@@ -26,16 +29,16 @@ main_nav: true
 <dl>
  <dt>2023:</dt>
   <ul>
-  <li></li>
-  <li>Poster session at  "New trends in mathematical fluids dynamics", June, Grenoble 2023</li>
-  <li>Séminaire des doctorants en EDP, LMO, Orsay, France </li>
-  <li>Séminaire des doctorants, LaMME, Evry, France </li>
-  <li>Poster session at "Journées de jeunes EDPistes", Tours, France: </li>
+  <li>Vulgarization seminary for master students M1 MEEF from UNiversite Paris-Saclay, October, Evry-France.</li>
+  <li>Poster session at  "New trends in mathematical fluids dynamics", June, Grenoble-France.</li>
+  <li>Séminaire des doctorants en EDP, LMO, Orsay-France. </li>
+  <li>Séminaire des doctorants, LaMME, Evry-France. </li>
+  <li>Poster session at "Journées de jeunes EDPistes", Tours-France.</li>
 
   </ul>
   <dt>2022:</dt>
   <ul>
-  <li>Partial regularity theory for the micropolar fluids equations, Conferencia internacional en analisis y ecuaciones en derivadas parciales,  April.</li> </ul> 
+  <li>Partial regularity theory for the micropolar fluids equations, Conferencia internacional en analisis y ecuaciones en derivadas parciales,  April, Quito- Ecuador</li> </ul> 
 </dl>
 <hr>
 <h3 id="Attendconferences">Attended conferences and worshops</h3>
@@ -47,7 +50,7 @@ main_nav: true
   <dt>2022:</dt>
   <ul>
   <li>Mathflows, Marseille Luminy, December. </li>
-  <li>VIII Conferencia de Matemáticos Ecuatorianos en París, September. </li>
+  <li>VIII Conferencia de Matemáticos Ecuatorianos en París, September, Paris.</li>
   <li>Summer school on fluids and turbulence, Lyon, June.</li>
   <li>Mathematical Advances in Geophysical Flows, Marseille Luminy, April.</li>
   <li>GDR EDP Conférence itinérante, Vannes, February. </li>
