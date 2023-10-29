@@ -4,6 +4,8 @@ title: CV
 permalink: /CV/
 main_nav: true
 ---
+<i>My full name is Henry David Llerena Montenegro, sometimes you could find me as Henry instead of David. 
+</i> 
 <hr>
 <h3 id="education">Education</h3>
 <ul>
