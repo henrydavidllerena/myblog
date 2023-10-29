@@ -9,12 +9,12 @@ main_nav: true
 <ul>
   <li> <dt>October 2021-present :</dt>
   <dd> Phd Student at Laboratoire de Mathématiques et Modélisation d'Évry.<br>
-  Thesis title: Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations  <br>
-  Advisors:  Diego Chamorro and Pierre-Gilles Lemarié-Rieusset
+  <b>Thesis title:</b> Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations  <br>
+  <b>Advisors:</b>  Diego Chamorro and Pierre-Gilles Lemarié-Rieusset
   </dd>
   </li>
   <li> <dt>2019 - 2021 :</dt><dd> Master degree in Mathematics, M2 AAG, Université Paris Saclay site Orsay.<br>
-  Master Thesis: Étude de la régularité pour quelques équations de la mécanique des fluides.</dd>
+  <b>Master Thesis</b>: Étude de la régularité pour quelques équations de la mécanique des fluides.</dd>
   </li>
   <li> <dt>2013 - 2018 :</dt><dd> Bachelor in Mathematics at the Central University of Ecuador<br>
   Final report: (in spanish).</dd>
