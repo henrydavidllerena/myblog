@@ -5,7 +5,7 @@ permalink: /research/
 main_nav: true
 page-number: 3
 ---
-
+<hr>
 <h3 id="publication">Publications</h3>
 <ol>
   <li>Chamorro, D., Llerena, D. & Vergara-Hermosilla , G. Some remarks about the stationary Micropolar fluid equations: existence, regularity and uniqueness .  (2023) Preprint. <a href="https://arxiv.org/abs/2306.04270" title="arxiv">arxiv</a></li>
@@ -15,6 +15,7 @@ page-number: 3
   <li>Alvarez-Samaniego, B., Alvarez-Samaniego, W.P. and Llerena-Montenegro, D. Approximate identities for the Schwartz space. Anal.Math.Phys. 11, 21 (2021).  <a href="https://link.springer.com/article/10.1007/s13324-020-00456-2" title="journal">journal</a></li>
 </ol>
 
+<hr>
 <h3 id="researhgroups">Research groups</h3>
 <dl>
 <li> Part of the research group of analysis and PDE's,  <a href="https://www.amarun.org/index.php/actividades/grupos-de-investigacion" title="journal">GANEP</a>. </li>
