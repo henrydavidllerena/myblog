@@ -9,7 +9,7 @@ main_nav: true
 <hr>
 <h3 id="education">Education</h3>
 <ul>
-  <li> <dt>October 2021 - present :</dt>
+  <li> <dt> October 2021 - present :</dt>
   <b>Pursuing a PhD in Mathematics</b>, Université Paris-Saclay, Laboratoire de Mathématiques et Modélisation d'Évry.<br>
    <dd><i>Thesis title: Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations.</i> <br>
    <i>Advisors: Diego Chamorro and Pierre-Gilles Lemarié-Rieusset. </i> 
@@ -31,7 +31,7 @@ main_nav: true
 <dl>
  <dt>2023:</dt>
   <ul>
-  <li>Vulgarization seminary for master students M1 MEEF from UNiversite Paris-Saclay, October, Evry-France.</li>
+  <li>Vulgarization seminar for master students M1 MEEF from Université Paris-Saclay, October, Evry-France.</li>
   <li>Poster session at  "New trends in mathematical fluids dynamics", June, Grenoble-France.</li>
   <li>Séminaire des doctorants en EDP, LMO, Orsay-France. </li>
   <li>Séminaire des doctorants, LaMME, Evry-France. </li>
@@ -74,4 +74,4 @@ main_nav: true
 
   </li>
 </ul>
-<h4>  <a href="https://www.amarun.org" title="FullCV">FULL CV.</a></h4>
+<h4>  <a href="https://drive.google.com/file/d/1SGru9m0J9WbsRhaU-rgT4hRSZlTJ9UDu/view?usp=sharing" title="FullCV">FULL CV.</a></h4>

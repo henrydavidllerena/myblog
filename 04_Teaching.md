@@ -4,18 +4,19 @@ title: Teaching
 permalink: /teaching/
 main_nav: true
 ---
-<dt>In Sept 2023 I gave a mini-cours on the local regularity of the Navier-Stokes equations,
+<dt>In Sept 2023 I gave a mini-cours (online) on the local regularity of the Navier-Stokes equations for
+for the Summer school in analysis, AMARUN
   <ol>
-    <li> Lection 1:</li>
-    <li> Lection 2:</li>
-    <li> Lection 3:</li>
-    <li> Lection 4:</li>
-    <li> Lection 5:</li>
+    <li> Lection 1</li>
+    <li> Lection 2</li>
+    <li> Lection 3</li>
+    <li> Lection 4</li>
+    <li> Lection 5</li>
   </ol>
 </dt>
 <hr>
 <h3 id="TD">Teaching experience</h3> 
- I was in charge of the following courses for the exercices lesson, (TD's)
+ I was in charge of the following exercises lessons (TD's)
 <ul>
  <li> <dt>Sept 2022 - April 2023 (54h): </dt> 
       <ol>
